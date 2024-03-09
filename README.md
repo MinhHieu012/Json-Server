@@ -3,6 +3,7 @@
 
 
 
-By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com
+Link data
 --------------
 Link: https://json-server-3m8k.onrender.com
+Link customer data: https://json-server-3m8k.onrender.com/customer
